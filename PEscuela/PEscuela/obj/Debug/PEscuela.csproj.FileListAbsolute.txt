@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\PEscuela\PEscuela\bin\Debug\PEscuela.exe.config
+C:\Users\usuario\source\repos\PEscuela\PEscuela\bin\Debug\PEscuela.exe
+C:\Users\usuario\source\repos\PEscuela\PEscuela\bin\Debug\PEscuela.pdb
+C:\Users\usuario\source\repos\PEscuela\PEscuela\bin\Debug\EntityFramework.dll
+C:\Users\usuario\source\repos\PEscuela\PEscuela\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\source\repos\PEscuela\PEscuela\bin\Debug\EntityFramework.xml
+C:\Users\usuario\source\repos\PEscuela\PEscuela\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\source\repos\PEscuela\PEscuela\obj\Debug\PEscuela.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\PEscuela\PEscuela\obj\Debug\PEscuela.Form1.resources
+C:\Users\usuario\source\repos\PEscuela\PEscuela\obj\Debug\PEscuela.Properties.Resources.resources
+C:\Users\usuario\source\repos\PEscuela\PEscuela\obj\Debug\PEscuela.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\PEscuela\PEscuela\obj\Debug\PEscuela.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\PEscuela\PEscuela\obj\Debug\PEscuela.csproj.CopyComplete
+C:\Users\usuario\source\repos\PEscuela\PEscuela\obj\Debug\PEscuela.exe
+C:\Users\usuario\source\repos\PEscuela\PEscuela\obj\Debug\PEscuela.pdb

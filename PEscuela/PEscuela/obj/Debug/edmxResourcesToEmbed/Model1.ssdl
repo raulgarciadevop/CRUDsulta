@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EscuelaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="T_Alumnos">
+    <Key>
+      <PropertyRef Name="idEstudiante" />
+    </Key>
+    <Property Name="idEstudiante" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" />
+    <Property Name="ApellidoPaterno" Type="varchar" MaxLength="50" />
+    <Property Name="ApellidoMaterno" Type="varchar" MaxLength="50" />
+    <Property Name="edad" Type="int" />
+  </EntityType>
+  <EntityType Name="T_Materia">
+    <Key>
+      <PropertyRef Name="idMateria" />
+    </Key>
+    <Property Name="idMateria" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Mateia" Type="varchar" MaxLength="250" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityContainer Name="EscuelaModelStoreContainer">
+    <EntitySet Name="T_Alumnos" EntityType="Self.T_Alumnos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="T_Materia" EntityType="Self.T_Materia" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

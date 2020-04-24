@@ -16,4 +16,8 @@ namespace PEscuela
         public string Mateia { get; set; }
         public string Descripcion { get; set; }
     }
+
+    public MetodoDePiojo{
+		println(pendejos);
+	}
 }
